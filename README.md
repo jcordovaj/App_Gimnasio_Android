@@ -1,4 +1,4 @@
-# 🚀 MOD6 AE1-ABPRO1: Temporizador para Gimanasio (MVVM + Room)
+# 🚀 Temporizador para Gimanasio (MVVM + Room)
 
 <p float="center">
   <img src="scrapbook/perasconmanzanas_icon.png" alt="Logo" width="200"/>
